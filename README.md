@@ -1,0 +1,1 @@
+alx shell basics project, i need to know what am doing wrong
