@@ -1,0 +1,1 @@
+The use of special notations the output of commands to files
